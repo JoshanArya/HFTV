@@ -1,8 +1,4 @@
---[[
-    HIDE FROM THE VILLAIN - Full Edition (Optimized)
-    All features with lightweight ESP
-    Version: Full Optimized
-]]
+
 
 -- Services
 local Players = game:GetService("Players")
@@ -417,18 +413,5 @@ UserInputService.InputEnded:Connect(function(input)
     end
 end)
 
-print("==================================")
-print("[HIDE VILLAIN] Full Edition Loaded!")
-print("==================================")
-print("G - Teleport Crate")
-print("H - Teleport Medkit")
-print("J - Teleport TempV")
-print("K - Teleport Phone")
-print("F - Flight (WASD+Space)")
-print("X - Superspeed")
-print("Z - Phasing")
-print("I - Invisibility")
-print("N - Noclip")
-print("T - TP Walk")
-print("RightShift - Close UI")
-print("==================================")
+print("[HIDE VILLAIN] Script Loaded!")
+
